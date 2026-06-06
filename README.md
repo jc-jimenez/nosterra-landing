@@ -38,3 +38,4 @@ No se necesitan variables de entorno.
 > Nota: la metadata está configurada con `robots: { index: false }` para que esta
 > demo no compita en buscadores con el sitio real (www.nosterramezcal.com).
 > Los botones "Comprar" enlazan a la tienda real.
+# nosterra-landing
